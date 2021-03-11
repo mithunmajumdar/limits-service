@@ -29,6 +29,6 @@ public class LimitsConfigurationController
 	// defining the fallback method
 	public LimitConfiguration fallbackRetrieveConfigurations() {
 		// returning the default configuration
-		return new LimitConfiguration(999, 9);
+		return new LimitConfiguration(234, 76);
 	} 
 }  
